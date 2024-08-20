@@ -1,5 +1,5 @@
 # Proyecto de Machine Learning: "Modelo de recomendacion de peliculas"
-![alt text](image.png)
+
 
 ### Descripcion:
 - En el contexto de un ambiente de trabajo en una start-up que provee servicios de agregación de plataformas de streaming, como rol de Data Scientist nuestro objetivo es crear un modelo de ML sobre un sistema de recomendación de peliculas que aún no ha sido implementado.
